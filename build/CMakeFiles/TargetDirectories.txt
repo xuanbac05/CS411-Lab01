@@ -1,4 +1,0 @@
-/home/xuanbac05/Desktop/Projects/CS411/lab01/Source/build/CMakeFiles/glad.dir
-/home/xuanbac05/Desktop/Projects/CS411/lab01/Source/build/CMakeFiles/app.dir
-/home/xuanbac05/Desktop/Projects/CS411/lab01/Source/build/CMakeFiles/edit_cache.dir
-/home/xuanbac05/Desktop/Projects/CS411/lab01/Source/build/CMakeFiles/rebuild_cache.dir
